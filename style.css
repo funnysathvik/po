@@ -1,0 +1,11 @@
+body
+{
+background-image: linear-gradient(red, violet);
+}
+#button{
+    border-radius: 15px;
+}
+#made{
+    position: static;
+
+}
